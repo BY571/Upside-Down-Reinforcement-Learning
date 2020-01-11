@@ -9,6 +9,6 @@ The notebook includes the training of a behavior function as well as an evaluati
 
 
 ## Plots for the CartPole Environment:
-![plot](imgs/Graph.PNG)
+![plot](imgs/Graph.png)
 
 ToDo: Continuous action space implementation.
