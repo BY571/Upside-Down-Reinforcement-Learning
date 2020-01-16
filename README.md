@@ -3,12 +3,20 @@
 Upside-Down Reinforcement Learning (⅂ꓤ) implementation in Pytorch. <br/>
 Based on the paper published by *Jürgen Schmidhuber*: [⅂ꓤ-Paper](https://github.com/BY571/Upside-Down-Reinforcement-Learning/tree/master/paper)
 
-Currently this repository contains only a discrete action space implementation for the OpenAI gym CartPole environment.
+This repository contains a **discrete action space** as well as a **continuous action space**  implementation for the OpenAI gym CartPole environment ([continuous](https://gist.github.com/iandanforth/e3ffb67cf3623153e968f2afdfb01dc8) version of the environment).
 
-The notebook includes the training of a behavior function as well as an evaluation part, where you can test the trained behavior function. Feed it with an **desired reward** that the agent shall achieve in a **desired time horizon**.
+The notebooks include the training of a behavior function as well as an evaluation part, where you can test the trained behavior function. Feed it with an **desired reward** that the agent shall achieve in a **desired time horizon**.
 
 
-## Plots for the CartPole Environment:
+## Plots for the discrete CartPole Environment:
 ![plot](imgs/Graph.png)
 
-ToDo: Continuous action space implementation.
+
+## Plots for the continuous CartPole Environment:
+![plot](imgs/Graph1.png)
+
+
+
+TODO:
+- test some possible improvements mentioned in the paper (6. Future Research Directions).
+
