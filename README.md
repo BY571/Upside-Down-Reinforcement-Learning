@@ -9,11 +9,11 @@ The notebooks include the training of a behavior function as well as an evaluati
 
 
 ## Plots for the discrete CartPole Environment:
-![plot](imgs/Graph.png)
+![plot](imgs/Graph.PNG)
 
 
 ## Plots for the continuous CartPole Environment:
-![plot](imgs/Graph1.png)
+![plot](imgs/Graph1.PNG)
 
 
 
