@@ -15,6 +15,9 @@ The notebooks include the training of a behavior function as well as an evaluati
 ## Plots for the continuous CartPole Environment:
 ![plot](imgs/Graph1.PNG)
 
+### Plots for the LunarLander Environment:
+![plot](imgs/upside_down_lunarlander.png)
+
 
 
 TODO:
