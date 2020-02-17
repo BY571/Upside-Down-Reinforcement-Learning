@@ -23,3 +23,18 @@ The notebooks include the training of a behavior function as well as an evaluati
 TODO:
 - test some possible improvements mentioned in the paper (6. Future Research Directions).
 
+## Author
+- Sebastian Dittert
+
+**Feel free to use this code for your own projects or research.**
+Cite as:
+```
+@misc{Upside-Down,
+  author = {Dittert, Sebastian},
+  title = {PyTorch Implementation of Upside-Down RL},
+  year = {2020},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/BY571/Upside-Down-Reinforcement-Learning}},
+}
+```
