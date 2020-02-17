@@ -1,4 +1,4 @@
-# Upside-Down-Reinforcement-Learning
+# Upside-Down-Reinforcement-Learning [![DOI](https://zenodo.org/badge/233063069.svg)](https://zenodo.org/badge/latestdoi/233063069)
 
 Upside-Down Reinforcement Learning (⅂ꓤ) implementation in Pytorch. <br/>
 Based on the paper published by *Jürgen Schmidhuber*: [⅂ꓤ-Paper](https://github.com/BY571/Upside-Down-Reinforcement-Learning/tree/master/paper)
@@ -27,7 +27,7 @@ TODO:
 - Sebastian Dittert
 
 **Feel free to use this code for your own projects or research.**
-Cite as:
+For citation check DOI or cite as:
 ```
 @misc{Upside-Down,
   author = {Dittert, Sebastian},
